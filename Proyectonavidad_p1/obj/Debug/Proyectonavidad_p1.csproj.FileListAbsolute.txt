@@ -1,0 +1,51 @@
+C:\Users\DELL\source\repos\Proyectonavidad_p1\Proyectonavidad_p1\bin\Debug\Proyectonavidad_p1.exe.config
+C:\Users\DELL\source\repos\Proyectonavidad_p1\Proyectonavidad_p1\bin\Debug\Proyectonavidad_p1.exe
+C:\Users\DELL\source\repos\Proyectonavidad_p1\Proyectonavidad_p1\bin\Debug\Proyectonavidad_p1.pdb
+C:\Users\DELL\source\repos\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.Form1.resources
+C:\Users\DELL\source\repos\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.Properties.Resources.resources
+C:\Users\DELL\source\repos\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.exe
+C:\Users\DELL\source\repos\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.pdb
+C:\Users\DELL\source\repos\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.Form2.resources
+C:\Users\DELL\source\repos\Proyectonavidad_p1\Proyectonavidad_p1\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\source\repos\Proyectonavidad_p1\Proyectonavidad_p1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\source\repos\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\source\repos\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\source\repos\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.csproj.ResolveComReference.cache
+C:\Users\erick romo\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\bin\Debug\Proyectonavidad_p1.exe.config
+C:\Users\erick romo\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\bin\Debug\Proyectonavidad_p1.exe
+C:\Users\erick romo\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\bin\Debug\Proyectonavidad_p1.pdb
+C:\Users\erick romo\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\bin\Debug\Interop.WMPLib.dll
+C:\Users\erick romo\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\erick romo\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.csproj.AssemblyReference.cache
+C:\Users\erick romo\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Interop.WMPLib.dll
+C:\Users\erick romo\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\erick romo\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.csproj.ResolveComReference.cache
+C:\Users\erick romo\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.Form1.resources
+C:\Users\erick romo\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.Form2.resources
+C:\Users\erick romo\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.Properties.Resources.resources
+C:\Users\erick romo\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.csproj.GenerateResource.cache
+C:\Users\erick romo\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.csproj.CoreCompileInputs.cache
+C:\Users\erick romo\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.exe
+C:\Users\erick romo\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.pdb
+C:\Users\Zombi\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\Proyectonavidad_p1\bin\Debug\Proyectonavidad_p1.exe.config
+C:\Users\Zombi\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\Proyectonavidad_p1\bin\Debug\Proyectonavidad_p1.exe
+C:\Users\Zombi\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\Proyectonavidad_p1\bin\Debug\Proyectonavidad_p1.pdb
+C:\Users\Zombi\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\Proyectonavidad_p1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Zombi\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\Proyectonavidad_p1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Zombi\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.csproj.AssemblyReference.cache
+C:\Users\Zombi\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Zombi\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Zombi\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.csproj.ResolveComReference.cache
+C:\Users\Zombi\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.Form1.resources
+C:\Users\Zombi\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.Form2.resources
+C:\Users\Zombi\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.Properties.Resources.resources
+C:\Users\Zombi\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.csproj.GenerateResource.cache
+C:\Users\Zombi\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.csproj.CoreCompileInputs.cache
+C:\Users\Zombi\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.exe
+C:\Users\Zombi\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.pdb
+C:\Users\Zombi\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\Proyectonavidad_p1\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Zombi\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\Proyectonavidad_p1\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Zombi\Downloads\Proyectonavidad_p1\Proyectonavidad_p1\Proyectonavidad_p1\obj\Debug\Proyectonavidad_p1.csproj.CopyComplete
